@@ -53,7 +53,7 @@ You can configure the port number used to communicate with Unity through the VSC
 
 ---
 
-Please report any issues or feature requests on the [GitHub repository](https://github.com/your-repo-link).
+Please report any issues or feature requests on the [GitHub repository](https://github.com/veyselerCS/UnitySelect-VSCode).
 
 ## License
 
